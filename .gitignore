@@ -37,6 +37,8 @@ output/
 *.PcbDocPreview
 *.SchDocPreview
 
+*.AnnotationPreview
+
 
 ############
 ## Windows
