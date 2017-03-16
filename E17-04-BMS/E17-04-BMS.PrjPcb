@@ -157,23 +157,6 @@ GenerateClassCluster=0
 DocumentUniqueId=MCKVGLXU
 
 [Document8]
-DocumentPath=E17-04-INDUCTIVE_LOAD_SWITCH.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=DMOTKOJX
-
-[Document9]
 DocumentPath=E17-04-POWER.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SYDSXSCW
 
-[Document10]
+[Document9]
 DocumentPath=E17-04_BSPD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FPDTARUK
 
-[Document11]
+[Document10]
 DocumentPath=E17-04-CONNECTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CQEKNJXJ
 
-[Document12]
+[Document11]
 DocumentPath=E17-04_IMD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKVLUGPQ
 
-[Document13]
+[Document12]
 DocumentPath=E17-04-HVD.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SETLBJMB
 
-[Document14]
+[Document13]
 DocumentPath=E17-04-TSMS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KTMSYYVJ
 
-[Document15]
+[Document14]
 DocumentPath=Digital_IP.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TSYBVHMM
 
-[Document16]
+[Document15]
 DocumentPath=E17-04-HV-CONNECTORS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=PAHTLHEJ
 
-[Document17]
+[Document16]
 DocumentPath=E17-04_Charger Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UPVPHGJW
 
-[Document18]
+[Document17]
 DocumentPath=E17-04-PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OVWIIXFH
 
-[Document19]
+[Document18]
 DocumentPath=E17-04_ICS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,6 +343,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JORCCMLU
 
+[Document19]
+DocumentPath=..\E17-12_CC\E17-12_CC.SCHLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [SearchPath1]
 Path=..\..\..\..\Altium parts repo\altium-library\*.*
 IncludeSubFolders=1
@@ -372,6 +372,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
+ConfigurationType=
 
 [OutputGroup1]
 Name=Netlist Outputs
