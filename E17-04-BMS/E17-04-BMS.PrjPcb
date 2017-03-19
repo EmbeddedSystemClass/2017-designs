@@ -445,6 +445,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document25]
+DocumentPath=\\psf\Home\Documents\Altium parts repo\altium-library\Molex_DuraClik\Project Outputs for Molex_DuraClik\Molex_DuraClik.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [SearchPath1]
 Path=..\..\..\..\Altium parts repo\altium-library\*.*
 IncludeSubFolders=1
