@@ -207,6 +207,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KILUOPWS
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for E17-PDU\Design Rule Check - E17-PDU-LAYOUT.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\altium-library\*.*
 IncludeSubFolders=1
