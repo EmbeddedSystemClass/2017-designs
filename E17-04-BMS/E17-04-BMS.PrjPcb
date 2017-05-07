@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for E17-04-BMS
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=FXOTSOEJ
 
 [Document7]
-DocumentPath=E17-04-MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AVGHXOGG
-
-[Document8]
 DocumentPath=E17-04-HV_MEASURE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,6 +155,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKGWTMPO
+
+[Document8]
+DocumentPath=E17-04-MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AVGHXOGG
 
 [Document9]
 DocumentPath=E17-04-PRECHARGE-DISCHARGE.SchDoc
@@ -361,23 +361,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JORCCMLU
 
 [Document20]
-DocumentPath=E17-04-MCU.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
 DocumentPath=E17-04-ISO_SPI.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document22]
+[Document21]
 DocumentPath=E17-04-HV_MEASURE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document22]
 DocumentPath=E17-04-CONNECTORS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=E17-04-Energy_Meter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,6 +428,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXGSVOHD
 
+[Document24]
+DocumentPath=E17-04-BMS.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=E17-04-MCU.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [SearchPath1]
 Path=..\..\..\..\Altium parts repo\altium-library\*.*
 IncludeSubFolders=1
@@ -457,6 +474,7 @@ ReleaseItemId=
 Variant=[No Variations]
 OutputJobsCount=0
 ContentTypeGUID=
+ConfigurationType=
 
 [Generic_SmartPDF]
 AutoOpenFile=-1
@@ -495,7 +513,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for E17-04-BMS
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1762,6 +1780,34 @@ ModelUpdate29=1
 SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
+
+[NetInfos]
+Net1=NetName=MEAS_I+|NetColor=$000083FD
+Net2=NetName=MEAS_COMMON|NetColor=$000083FD
+Net3=NetName=MEAS_I-|NetColor=$000083FD
+Net4=NetName=SHUNT_RAW_N|NetColor=$000083FD
+Net5=NetName=NetJ8_2|NetColor=$000083FD
+Net6=NetName=NetK2_11|NetColor=$000083FD
+Net7=NetName=NetU2_1|NetColor=$000083FD
+Net8=NetName=NetJ11_3|NetColor=$000083FD
+Net9=NetName=NetJ8_1|NetColor=$000083FD
+Net10=NetName=MEAS_V2|NetColor=$000083FD
+Net11=NetName=NetJ2_1|NetColor=$000083FD
+Net12=NetName=HV_COM|NetColor=$000083FD
+Net13=NetName=NetJ11_1|NetColor=$000083FD
+Net14=NetName=NetDH1_14|NetColor=$000083FD
+Net15=NetName=MEAS_V1|NetColor=$000083FD
+Net16=NetName=NetU2_5|NetColor=$000083FD
+Net17=NetName=NetJ8_3|NetColor=$000083FD
+Net18=NetName=NetJ12_1|NetColor=$000083FD
+Net19=NetName=SHUNT_RAW_P|NetColor=$000083FD
+Net20=NetName=NetR28_1|NetColor=$000083FD
+Net21=NetName=NetJ12_2|NetColor=$000083FD
+Net22=NetName=NetJ11_6|NetColor=$000083FD
+Net23=NetName=NetR23_1|NetColor=$000083FD
+Net24=NetName=NetK2_9|NetColor=$000083FD
+Net25=NetName=NetR45_2|NetColor=$000083FD
+Net26=NetName=NetJ12_3|NetColor=$000083FD
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
