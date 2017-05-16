@@ -491,6 +491,14 @@ DItemRevisionGUID=
 DocumentPath=E17-04-PCB 5-13-17 11-52-59 PM.WAS
 DItemRevisionGUID=
 
+[GeneratedDocument4]
+DocumentPath=E17-04-PCB 5-15-17 1-12-54 PM.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=E17-04-PCB 5-15-17 1-13-26 PM.WAS
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\Altium parts repo\altium-library\*.*
 IncludeSubFolders=1
@@ -1168,6 +1176,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1836,17 +1884,17 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=MEAS_I+|NetColor=$000083FD
-Net2=NetName=MEAS_COMMON|NetColor=$000083FD
-Net3=NetName=MEAS_I-|NetColor=$000083FD
+Net2=NetName=MEAS_I-|NetColor=$000083FD
+Net3=NetName=MEAS_COMMON|NetColor=$000083FD
 Net4=NetName=SHUNT_RAW_N|NetColor=$000083FD
 Net5=NetName=NetJ8_2|NetColor=$000083FD
 Net6=NetName=NetK2_11|NetColor=$000083FD
 Net7=NetName=NetU2_1|NetColor=$000083FD
 Net8=NetName=NetJ11_3|NetColor=$000083FD
 Net9=NetName=NetJ8_1|NetColor=$000083FD
-Net10=NetName=MEAS_V2|NetColor=$000083FD
-Net11=NetName=NetJ2_1|NetColor=$000083FD
-Net12=NetName=HV_COM|NetColor=$000083FD
+Net10=NetName=HV_COM|NetColor=$000083FD
+Net11=NetName=MEAS_V2|NetColor=$000083FD
+Net12=NetName=NetJ2_1|NetColor=$000083FD
 Net13=NetName=NetJ11_1|NetColor=$000083FD
 Net14=NetName=NetDH1_14|NetColor=$000083FD
 Net15=NetName=MEAS_V1|NetColor=$000083FD
@@ -1865,7 +1913,7 @@ Net26=NetName=NetJ12_3|NetColor=$000083FD
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
-ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=0|UseName=-1|InclAllRules=0
 ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
 ComparisonOptions5=Kind=Code Memory|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
