@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=\\Mac\Home\Documents\Formula Hybrid\Hardware\2017-designs\E17-04-BMS\E17-04_DC_DC_CONTROL.SchDoc
+DocumentPath=E17-04_DC_DC_CONTROL.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -479,120 +479,41 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document27]
+DocumentPath=E17-04-BOM.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for E17-04-BMS\Design Rule Check - E17-04-PCB.html
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument2]
 DocumentPath=E17-04-PCB 5-13-17 11-51-55 PM.WAS
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument3]
 DocumentPath=E17-04-PCB 5-13-17 11-52-59 PM.WAS
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument4]
 DocumentPath=E17-04-PCB 5-15-17 1-12-54 PM.WAS
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument5]
 DocumentPath=E17-04-PCB 5-15-17 1-13-26 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\component_side\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\ground_plane\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\power_plane\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\solder_side\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\SimulationDummy.REP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\user\SimulationDummy.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=PDNAnalyzer_Output\Output_ODBpp\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -1942,17 +1863,17 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=MEAS_I+|NetColor=$000083FD
-Net2=NetName=MEAS_COMMON|NetColor=$000083FD
-Net3=NetName=MEAS_I-|NetColor=$000083FD
+Net2=NetName=MEAS_I-|NetColor=$000083FD
+Net3=NetName=MEAS_COMMON|NetColor=$000083FD
 Net4=NetName=SHUNT_RAW_N|NetColor=$000083FD
 Net5=NetName=NetJ8_2|NetColor=$000083FD
 Net6=NetName=NetK2_11|NetColor=$000083FD
 Net7=NetName=NetU2_1|NetColor=$000083FD
 Net8=NetName=NetJ11_3|NetColor=$000083FD
-Net9=NetName=NetJ8_1|NetColor=$000083FD
-Net10=NetName=NetJ2_1|NetColor=$000083FD
-Net11=NetName=HV_COM|NetColor=$000083FD
-Net12=NetName=MEAS_V2|NetColor=$000083FD
+Net9=NetName=MEAS_V2|NetColor=$000083FD
+Net10=NetName=NetJ8_1|NetColor=$000083FD
+Net11=NetName=NetJ2_1|NetColor=$000083FD
+Net12=NetName=HV_COM|NetColor=$000083FD
 Net13=NetName=NetJ11_1|NetColor=$000083FD
 Net14=NetName=NetDH1_14|NetColor=$000083FD
 Net15=NetName=MEAS_V1|NetColor=$000083FD
