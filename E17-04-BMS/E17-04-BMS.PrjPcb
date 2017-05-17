@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for E17-04-BMS
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -140,23 +140,6 @@ GenerateClassCluster=0
 DocumentUniqueId=XJTYKGQT
 
 [Document7]
-DocumentPath=E17-04-TSVP.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=3
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FXOTSOEJ
-
-[Document8]
 DocumentPath=E17-04-HV_MEASURE.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -172,6 +155,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UKGWTMPO
+
+[Document8]
+DocumentPath=E17-04-TSVP.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=3
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FXOTSOEJ
 
 [Document9]
 DocumentPath=E17-04-MCU.SchDoc
@@ -395,23 +395,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document22]
-DocumentPath=E17-04-HV_MEASURE.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document23]
 DocumentPath=E17-04-CONNECTORS.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document24]
+[Document23]
 DocumentPath=E17-04-Energy_Meter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXGSVOHD
 
-[Document25]
+[Document24]
 DocumentPath=E17-04-BMS.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=E17-04-MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -479,8 +462,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document26]
 DocumentPath=E17-04-BOM.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=E17-04-HV_MEASURE.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -567,7 +567,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for E17-04-BMS
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1863,17 +1863,17 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=MEAS_I+|NetColor=$000083FD
-Net2=NetName=MEAS_I-|NetColor=$000083FD
-Net3=NetName=MEAS_COMMON|NetColor=$000083FD
+Net2=NetName=MEAS_COMMON|NetColor=$000083FD
+Net3=NetName=MEAS_I-|NetColor=$000083FD
 Net4=NetName=SHUNT_RAW_N|NetColor=$000083FD
 Net5=NetName=NetJ8_2|NetColor=$000083FD
 Net6=NetName=NetK2_11|NetColor=$000083FD
 Net7=NetName=NetU2_1|NetColor=$000083FD
 Net8=NetName=NetJ11_3|NetColor=$000083FD
 Net9=NetName=MEAS_V2|NetColor=$000083FD
-Net10=NetName=NetJ8_1|NetColor=$000083FD
-Net11=NetName=NetJ2_1|NetColor=$000083FD
-Net12=NetName=HV_COM|NetColor=$000083FD
+Net10=NetName=HV_COM|NetColor=$000083FD
+Net11=NetName=NetJ8_1|NetColor=$000083FD
+Net12=NetName=NetJ2_1|NetColor=$000083FD
 Net13=NetName=NetJ11_1|NetColor=$000083FD
 Net14=NetName=NetDH1_14|NetColor=$000083FD
 Net15=NetName=MEAS_V1|NetColor=$000083FD
