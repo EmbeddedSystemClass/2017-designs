@@ -516,6 +516,10 @@ DItemRevisionGUID=
 DocumentPath=E17-04-PCB 5-15-17 1-13-26 PM.WAS
 DItemRevisionGUID=
 
+[GeneratedDocument6]
+DocumentPath=E17-04-PCB 5-17-17 9-20-03 PM.WAS
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=..\..\..\..\Altium parts repo\altium-library\*.*
 IncludeSubFolders=1
