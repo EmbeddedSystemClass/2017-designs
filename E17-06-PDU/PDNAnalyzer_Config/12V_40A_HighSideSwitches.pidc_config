@@ -1,0 +1,131 @@
+{
+  "BoardFile": "C:\\Users\\Lance Bantoto\\Documents\\2017-designs\\E17-06-PDU\\E17-PDU-LAYOUT.PcbDoc",
+  "SourcePowerNet": "12V",
+  "LoadPowerNet": "12V",
+  "GroundNet": "GND",
+  "SourceModel": {
+    "Name": null,
+    "PowerNet": "12V",
+    "PowerComponent": "YWJTHSDP|394989677|402827717|J1",
+    "PowerPins": [
+      "CAHEWRAX|394989677|397127717|J1-5"
+    ],
+    "GroundNet": "GND",
+    "GroundComponent": "PPXQXQBB|379933693|394427717|R1",
+    "GroundPins": [
+      "ERSAJKMO|377807709|394427717|R1-1"
+    ],
+    "SourceProperties": {
+      "MinDCVoltage": 12.0,
+      "MaxResistance": 0.0,
+      "MaxDCCurrent": 0.0,
+      "MaxPinCurrent": 0.0,
+      "MaxGndPinCurrent": 0.0
+    },
+    "LoadProperties": {
+      "UseCurrent": true,
+      "MaxDCCurrent": 0.0,
+      "MinResistance": 0.0,
+      "MinDCVoltage": 0.0
+    }
+  },
+  "LoadModels": [
+    {
+      "Name": null,
+      "PowerNet": "12V",
+      "PowerComponent": "AGHINASF|361800000|407070000|U5",
+      "PowerPins": [
+        "JKRBGUEI|363741928|405337721|U5-1",
+        "SIMHXALV|363741928|408802281|U5-12",
+        "RYSSNJBW|361800000|407070000|U5-25"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "AGHINASF|361800000|407070000|U5",
+      "GroundPins": [
+        "LELFXSXD|363741928|405652681|U5-2",
+        "GDPGRJDI|363741928|408487321|U5-11"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 3.6,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 10.8
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "12V",
+      "PowerComponent": "NOFDEULN|361800000|396770000|U6",
+      "PowerPins": [
+        "NPVSPIOB|363741928|395037721|U6-1",
+        "EYQRIMLJ|363741928|398502281|U6-12",
+        "REWIMJDW|361800000|396770000|U6-25"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "NOFDEULN|361800000|396770000|U6",
+      "GroundPins": [
+        "VMVBPYJY|363741928|395352681|U6-2",
+        "QMQWMIYK|363741928|398187321|U6-11"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 7.9,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 10.2
+      }
+    },
+    {
+      "Name": null,
+      "PowerNet": "12V",
+      "PowerComponent": "NRHHORPD|361808072|386262599|U7",
+      "PowerPins": [
+        "SXBTTMDE|363750000|384530320|U7-1",
+        "AMEDQCTO|363750000|387994880|U7-12",
+        "XHFYBVXR|361808072|386262599|U7-25"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "NRHHORPD|361808072|386262599|U7",
+      "GroundPins": [
+        "UMBHXWRK|363750000|384845280|U7-2",
+        "CILJQNHL|363750000|387679920|U7-11"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 23.02,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 10.2
+      }
+    }
+  ],
+  "Conductiviy": 58800000.0,
+  "ViaWallThickness": 0.7,
+  "ConductivityOptions": {
+    "BaseTemperature": 25.0,
+    "WorkTemperature": 25.0,
+    "BaseConductiviy": 58800000.0,
+    "Coefficient": 0.4
+  },
+  "IgnoreNets": [],
+  "PassiveGroups": []
+}
