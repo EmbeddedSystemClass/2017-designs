@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for E17-04-BMS
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -256,7 +256,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SYDSXSCW
+DocumentUniqueId=JMARKXCC
 
 [Document14]
 DocumentPath=E17-04_BSPD.SchDoc
@@ -571,7 +571,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=Project Outputs for E17-04-BMS
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1199,6 +1199,46 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad SDT Schematic
+OutputName12=Orcad SDT Schematic (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Orcad v7 Capture Design
+OutputName13=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD ASCII
+OutputName14=P-CAD ASCII (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD V16 Schematic Design
+OutputName15=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Protel PCB 2.8 ASCII
+OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1867,17 +1907,17 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=MEAS_I+|NetColor=$000083FD
-Net2=NetName=MEAS_COMMON|NetColor=$000083FD
-Net3=NetName=MEAS_I-|NetColor=$000083FD
+Net2=NetName=MEAS_I-|NetColor=$000083FD
+Net3=NetName=MEAS_COMMON|NetColor=$000083FD
 Net4=NetName=SHUNT_RAW_N|NetColor=$000083FD
 Net5=NetName=NetJ8_2|NetColor=$000083FD
 Net6=NetName=NetK2_11|NetColor=$000083FD
 Net7=NetName=NetU2_1|NetColor=$000083FD
 Net8=NetName=NetJ11_3|NetColor=$000083FD
 Net9=NetName=MEAS_V2|NetColor=$000083FD
-Net10=NetName=HV_COM|NetColor=$000083FD
-Net11=NetName=NetJ8_1|NetColor=$000083FD
-Net12=NetName=NetJ2_1|NetColor=$000083FD
+Net10=NetName=NetJ2_1|NetColor=$000083FD
+Net11=NetName=HV_COM|NetColor=$000083FD
+Net12=NetName=NetJ8_1|NetColor=$000083FD
 Net13=NetName=NetJ11_1|NetColor=$000083FD
 Net14=NetName=NetDH1_14|NetColor=$000083FD
 Net15=NetName=MEAS_V1|NetColor=$000083FD
