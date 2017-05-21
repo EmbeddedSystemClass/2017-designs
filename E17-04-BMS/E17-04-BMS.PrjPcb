@@ -429,23 +429,6 @@ GenerateClassCluster=0
 DocumentUniqueId=BXGSVOHD
 
 [Document24]
-DocumentPath=E17-04-BMS.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document25]
 DocumentPath=E17-04-MCU.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document25]
 DocumentPath=E17-04-BOM.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,201 +461,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document27]
-DocumentPath=E17-04-HV_MEASURE.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document28]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document29]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\comp_+_bot\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for E17-04-BMS\Design Rule Check - E17-04-PCB.html
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=E17-04-PCB 5-13-17 11-51-55 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=E17-04-PCB 5-13-17 11-52-59 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=E17-04-PCB 5-15-17 1-12-54 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=E17-04-PCB 5-15-17 1-13-26 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=E17-04-PCB 5-17-17 9-20-03 PM.WAS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for E17-04-BMS\E17-04-PCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for E17-04-BMS\odb\user\E17-04-PCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\comp_+_bot\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\component_side\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\ground_plane\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\mechanical_2\features
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\power_plane\features
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\rout\features
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\solder_side\features
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for E17-04-BMS\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for E17-04-BMS\odb\steps\pcb\layers\rout\tools
-DItemRevisionGUID=
 
 [SearchPath1]
 Path=..\..\..\..\Altium parts repo\altium-library\*.*
@@ -2061,17 +1849,17 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=MEAS_I+|NetColor=$000083FD
-Net2=NetName=MEAS_I-|NetColor=$000083FD
-Net3=NetName=MEAS_COMMON|NetColor=$000083FD
+Net2=NetName=MEAS_COMMON|NetColor=$000083FD
+Net3=NetName=MEAS_I-|NetColor=$000083FD
 Net4=NetName=SHUNT_RAW_N|NetColor=$000083FD
 Net5=NetName=NetJ8_2|NetColor=$000083FD
 Net6=NetName=NetK2_11|NetColor=$000083FD
 Net7=NetName=NetU2_1|NetColor=$000083FD
 Net8=NetName=NetJ11_3|NetColor=$000083FD
-Net9=NetName=MEAS_V2|NetColor=$000083FD
-Net10=NetName=NetJ2_1|NetColor=$000083FD
-Net11=NetName=HV_COM|NetColor=$000083FD
-Net12=NetName=NetJ8_1|NetColor=$000083FD
+Net9=NetName=NetJ8_1|NetColor=$000083FD
+Net10=NetName=MEAS_V2|NetColor=$000083FD
+Net11=NetName=NetJ2_1|NetColor=$000083FD
+Net12=NetName=HV_COM|NetColor=$000083FD
 Net13=NetName=NetJ11_1|NetColor=$000083FD
 Net14=NetName=NetDH1_14|NetColor=$000083FD
 Net15=NetName=MEAS_V1|NetColor=$000083FD
