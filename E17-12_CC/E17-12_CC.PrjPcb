@@ -556,10 +556,14 @@ DocumentPath=Project Outputs for E17-12_CC\E17-12_CC.xls
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for E17-12_CC\E17-15-Charge_Cart.BOM
+DocumentPath=Project Outputs for E17-12_CC\E17-12_CC.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
+DocumentPath=Project Outputs for E17-12_CC\E17-15-Charge_Cart.BOM
+DItemRevisionGUID=
+
+[GeneratedDocument5]
 DocumentPath=Project Outputs for E17-12_CC\E17-15-Charge_Cart.CSV
 DItemRevisionGUID=
 
