@@ -1,0 +1,73 @@
+{
+  "BoardFile": "C:\\Users\\Daniel Zhou\\Documents\\Fixed-2017-designs\\E17-06-PDU\\E17-PDU-LAYOUT.PcbDoc",
+  "SourcePowerNet": "12V",
+  "LoadPowerNet": "12V",
+  "GroundNet": "GND",
+  "SourceModel": {
+    "Name": null,
+    "PowerNet": "12V",
+    "PowerComponent": "YWJTHSDP|394989677|402827717|J1",
+    "PowerPins": [
+      "CAHEWRAX|394989677|397127717|J1-5"
+    ],
+    "GroundNet": "GND",
+    "GroundComponent": "PPXQXQBB|379933693|394427717|R1",
+    "GroundPins": [
+      "ERSAJKMO|377807709|394427717|R1-1"
+    ],
+    "SourceProperties": {
+      "MinDCVoltage": 12.0,
+      "MaxResistance": 0.0,
+      "MaxDCCurrent": 0.0,
+      "MaxPinCurrent": 0.0,
+      "MaxGndPinCurrent": 0.0
+    },
+    "LoadProperties": {
+      "UseCurrent": true,
+      "MaxDCCurrent": 0.0,
+      "MinResistance": 0.0,
+      "MinDCVoltage": 0.0
+    }
+  },
+  "LoadModels": [
+    {
+      "Name": null,
+      "PowerNet": "12V",
+      "PowerComponent": "NRHHORPD|361808072|386262599|U7",
+      "PowerPins": [
+        "SXBTTMDE|363750000|384530320|U7-1",
+        "AMEDQCTO|363750000|387994880|U7-12",
+        "XHFYBVXR|361808072|386262599|U7-25"
+      ],
+      "GroundNet": "GND",
+      "GroundComponent": "NRHHORPD|361808072|386262599|U7",
+      "GroundPins": [
+        "UMBHXWRK|363750000|384845280|U7-2",
+        "CILJQNHL|363750000|387679920|U7-11"
+      ],
+      "SourceProperties": {
+        "MinDCVoltage": 0.0,
+        "MaxResistance": 0.0,
+        "MaxDCCurrent": 0.0,
+        "MaxPinCurrent": 0.0,
+        "MaxGndPinCurrent": 0.0
+      },
+      "LoadProperties": {
+        "UseCurrent": true,
+        "MaxDCCurrent": 40.0,
+        "MinResistance": 0.0,
+        "MinDCVoltage": 0.0
+      }
+    }
+  ],
+  "Conductiviy": 58800000.0,
+  "ViaWallThickness": 0.7,
+  "ConductivityOptions": {
+    "BaseTemperature": 25.0,
+    "WorkTemperature": 25.0,
+    "BaseConductiviy": 58800000.0,
+    "Coefficient": 0.4
+  },
+  "IgnoreNets": [],
+  "PassiveGroups": []
+}
