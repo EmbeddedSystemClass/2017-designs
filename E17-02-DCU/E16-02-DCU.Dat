@@ -1,0 +1,16 @@
+Field=Comment~String~Comment~215|Field=Description~String~Description~453|Field=Designator~String~Designator~141|Field=Quantity~Integer~Quantity~48|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~E16-02-DCU.PrjPcb|ReportField=ProjectFullPath~C:\Users\Rishab\Documents\electrical-designs\2016 Designs\E16-02-DCU\E16-02-DCU.PrjPcb|ReportField=Title~Bill of Materials For Project [E16-02-DCU.PrjPcb] (PCB Document : E16-02-003.PcbDoc)|ReportField=TotalQuantity~26|ReportField=ReportTime~5:34:26 PM|ReportField=ReportDate~2015-09-20|ReportField=ReportDateTime~2015-09-20 5:34:26 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~|ReportField=CurrentTime~|ReportField=Date~|ReportField=DocumentFullPathAndName~|ReportField=DocumentName~|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~|ReportField=Organization~|ReportField=ProjectName~|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~E16-02-DCU.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Rishab\Documents\electrical-designs\2016 Designs\E16-02-DCU\E16-02-DCU.PrjPcb|ReportField=PCBDataSourceFileName~E16-02-003.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Rishab\Documents\electrical-designs\2016 Designs\E16-02-DCU\E16-02-003.PcbDoc
+Cap|Capacitor|C1, C2, C3, C4|4
+OVS5MBBCR4|Typical BLUE LED|D1|1
+OVS5MGBCR4|Typical GREEN LED|D2|1
+MOLEX 84864-9003|CAN Micro-Change M12, Right Angle, Male|J1|1
+Header 5X2|Header, 5-Pin, Dual row|P1|1
+Header 5|Header, 5-Pin|P2, P3, P4|3
+Header 4|Header, 4-Pin|P5, P6|2
+Header 2|Header, 2-Pin|P7, P8|2
+2N7002P,215|N-Channel Enhancement Mode Vertical DMOS FET|Q1, Q2|2
+Res|Surface Mount Resistor|R1, R2|2
+Res|Surface Mount Resistor|R3, R4, R5|3
+UA78M05CKVURG3|5.0V Regulator|U1|1
+UA78M33CKVURG3|3.3V Regulator|U2|1
+STM Processor Board|Board Schematic for STM32F072RB - Contains 4LEDS, 2 Pushbuttons, External Watchdog Timer, Crystal Oscillator, and CAN Transceiver|U3|1
+DS2401|IC SILICON SERIAL NUMBER SOT223|U4|1
