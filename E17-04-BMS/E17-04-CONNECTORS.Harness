@@ -1,0 +1,2 @@
+CAN=CAN _P,CAN_N
+UART=TX,RX
